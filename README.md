@@ -6,7 +6,7 @@ Size hazırlamış olduğum, ***Flight Search Application (UI Developer)*** konu
 
 Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde ilgili verileri gösterir ve içerisinde birçok özelliği bulundurur.
 
-**NOT: Loading animasyonunu search ettiğinizde en aşağıda görebilirsiniz. Listelenme bittikten sonra kaybolacaktır.**
+***NOT: Loading animasyonunu search işlemini yaptığınızda sayfanın aşağısında görebilirsiniz. Listelenme bittikten sonra kaybolacaktır.***
 
 ## ...
 
