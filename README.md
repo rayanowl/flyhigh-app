@@ -8,7 +8,7 @@ Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde i
 
 
 
-***NOT: Loading animasyonunu "Search" işlemini yaptığınızda sayfanın aşağısında görebilirsiniz. Listelenme bittikten sonra kaybolacaktır. Lütfen tarihi ayın onüçünden itibaren seçip app'i çalıştırın. (Projenin son teslim tarihine göre listelemeyi yaptım.)***
+***NOT: Loading animasyonunu "Search" butonuna tıkladığınızda görebilirsiniz, listelenme bittikten sonra kaybolacaktır. Lütfen tarihi ayın onüçünden itibaren seçip app'i çalıştırın. (Projenin son teslim tarihine göre listelemeyi yaptım.)***
 
 *Fun fact : " Bu yüzden video mülakatı başlatmadan önce case'ini tamamlaman ÇOK ÖNEMLİ❗️ "*
 
