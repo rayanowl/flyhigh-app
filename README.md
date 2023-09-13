@@ -1,12 +1,15 @@
-# Fly High!
+# Fly High FLAPII!
 
 Merhaba, *Amadeus Travel to Future / Case Study* açıklama bölümüne hoşgeldiniz. 
 
-Size hazırlamış olduğum, ***Flight Search Application (UI Developer)*** konulu projemden bahsedeceğim.
+Size hazırlamış olduğum, ***Flight Search Application (UI Developer)*** konusu  projemden bahsedeceğim.
 
 Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde ilgili verileri gösterir ve içerisinde birçok özelliği bulundurur.
 
 ***NOT: Loading animasyonunu search işlemini yaptığınızda sayfanın aşağısında görebilirsiniz. Listelenme bittikten sonra kaybolacaktır.***
+
+
+*Funny fact: Uygulama adı Flappy Bird'ten esinlenilmiştir.*
 
 ## ...
 
