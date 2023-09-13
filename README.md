@@ -23,7 +23,7 @@ Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde i
 
 1- ***Tek yönlü Uçuş Özelliği :*** Bunu seçtiğiniz takdirde, dönüş bilgileri görüntülenmeyecektir.
 
-2- ***API destekli :*** Belli bir sunucudan havalimanı , ücreti, saatleri vb. bilgiler çekilir ve geri döndürülür.
+2- ***Mock Data :*** Belli bir sunucudan havalimanı, saatleri, tarihleri vb. bilgiler çekilir ve geri döndürülür.
 
 3- ***Kullanıcı dostu :*** Uygulama site arayüzüyle uyumludur.
 
