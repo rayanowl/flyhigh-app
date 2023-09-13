@@ -6,6 +6,8 @@ Size hazırlamış olduğum, ***Flight Search Application (UI Developer)*** konu
 
 Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde ilgili verileri gösterir ve içerisinde birçok özelliği bulundurur.
 
+**NOT: Loading animasyonunu search ettiğinizde en aşağıda görebilirsiniz. Listelenme bittikten sonra kaybolacaktır.**
+
 ## ...
 
 1- ***Tek yönlü Uçuş Özelliği :*** Bunu seçtiğiniz takdirde, dönüş bilgileri görüntülenmeyecektir.
@@ -21,5 +23,6 @@ Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde i
 6- ***Data'nın gelmediği durumlar :*** Data gelmediği takdirde ekrana hata mesajı gösterilir. Denemek için ayın 20'si ve 20'sinden sonraki tarihleri seçebilirsiniz.
 
 7- ***Esneklik :*** Havaalanlarında yoksa ama seçtiğiniz tarihlerde başka havaalanları kalkış-varış noktaları varsa, onlarıda listeleyecektir.
+
 
 
