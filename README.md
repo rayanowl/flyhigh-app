@@ -1,10 +1,12 @@
 # Fly High!
 
 Merhaba, *Amadeus Travel to Future / Case Study* açıklama bölümüne hoşgeldiniz. 
-Size yapmış olduğum, **Flight Search Application (UI Developer)** konulu projemden bahsedeceğim.
+
+Size hazırlamış olduğum, ***Flight Search Application (UI Developer)*** konulu projemden bahsedeceğim.
 
 Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde ilgili verileri gösterir ve içerisinde birçok özelliği bulundurur.
 
+## ...
 
 1- ***Tek yönlü Uçuş Özelliği :*** Bunu seçtiğiniz takdirde, dönüş bilgileri görüntülenmeyecektir.
 
