@@ -32,7 +32,7 @@ Açıklama linki: https://youtu.be/z27r0u3XMWU
 
 5- ***Aynı tarihlerin seçilebilmesi :*** Gidiş-dönüş aynı gün içerisinde olacaksa o veriler ekrana gösterilir.
 
-6- ***Data'nın gelmediği durumlar :*** Data gelmediği takdirde ekrana hata mesajı gösterilir. Denemek için ayın yirmisi ve yirmisinden sonraki tarihleri seçebilir veya Havaalanı seçiminizde son iki opsiyonu seçebilirsiniz
+6- ***Data'nın gelmediği durumlar :*** Data gelmediği takdirde ekrana hata mesajı gösterilir. Denemek için ayın yirmisi ve yirmisinden sonraki tarihleri seçebilir veya Havaalanı seçiminizde son iki opsiyonu seçebilirsiniz. Ayrıca ayın onüçünden itibaren seçerseniz daha sağlıklı sonuçlar elde edebilirsiniz. (Projenin son teslim tarihine göre yaptım.)
 
 7- ***Esneklik :*** Havaalanlarında yoksa ama seçtiğiniz tarihlerde başka havaalanları kalkış-varış noktaları varsa, onlarıda listeleyecektir.
 
