@@ -1,6 +1,7 @@
 # Fly High!
 
-Merhaba, Amadeus Travel to Future / Case Study açıklama bölümüne hoşgeldiniz. Size yapmış olduğum, "Flight Search Application (UI Developer)" konulu projemden bahsedeceğim.
+Merhaba, Amadeus Travel to Future / Case Study açıklama bölümüne hoşgeldiniz. 
+Size yapmış olduğum, "Flight Search Application (UI Developer)" konulu projemden bahsedeceğim.
 
 Bu uygulama, Kalkış - Varış noktalarını listeler, seçildiğinde ilgili verileri gösterir ve içerisinde birçok özelliği bulundurur.
 
