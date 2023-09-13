@@ -15,7 +15,7 @@ Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde i
 
 
 
-## ...
+## .....
 
 1- ***Tek yönlü Uçuş Özelliği :*** Bunu seçtiğiniz takdirde, dönüş bilgileri görüntülenmeyecektir.
 
