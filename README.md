@@ -14,6 +14,8 @@ Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde i
 
 *Case telaşından dolayı, video mülakatının süresini geçirmemek için önce mülakatı yaptım. Tabiki son soru karşıma gelince pek bir açıklama yapamadım. Burada insiyatifinize sığınıyorum. ☹️*
 
+Açıklama linki: https://youtu.be/z27r0u3XMWU
+
 *Fun fact 2: Uygulama adı Flappy Bird'ten esinlenilmiştir.*
 
 
