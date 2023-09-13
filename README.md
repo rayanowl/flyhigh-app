@@ -21,7 +21,7 @@ Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde i
 
 2- ***API destekli :*** Belli bir sunucudan havalimanı , ücreti, saatleri vb. bilgiler çekilir ve geri döndürülür.
 
-3- ***Kullanıcı dostu :*** Uygulama site arayüzüyle uyumludur. İçerisinde media query'ler içerir.
+3- ***Kullanıcı dostu :*** Uygulama site arayüzüyle uyumludur.
 
 4- ***Tarihler arası biletlerin listelenmesi & Havaalanı sıralanması***
 
