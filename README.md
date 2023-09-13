@@ -23,7 +23,7 @@ Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde i
 
 3- ***Kullanıcı dostu :*** Uygulama site arayüzüyle uyumludur.
 
-4- ***Tarihler arası biletlerin listelenmesi & Havaalanı sıralanması*** mevcuttur.
+4- ***Tarihler arası biletlerin listelenmesi & Havaalanı sıralaması*** mevcuttur.
 
 5- ***Aynı tarihlerin seçilebilmesi :*** Gidiş-dönüş aynı gün içerisinde olacaksa o veriler ekrana gösterilir.
 
