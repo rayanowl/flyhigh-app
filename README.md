@@ -10,7 +10,9 @@ Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde i
 
 ***NOT: Loading animasyonunu search işlemini yaptığınızda sayfanın aşağısında görebilirsiniz. Listelenme bittikten sonra kaybolacaktır.***
 
-*Fun fact : "Video mülakatı başlatmadan önce case'ini tamamlaman ÇOK ÖNEMLİ" Case telaşından dolayı, video mülakatının süresini geçirmemek için önce mülakatı yaptım. Tabiki son soru karşıma gelince pek bir açıklama yapamadım. Burada insiyatifinize sığınıyorum. ☹️*
+*Fun fact : "Video mülakatı başlatmadan önce case'ini tamamlaman ÇOK ÖNEMLİ"*
+
+*Case telaşından dolayı, video mülakatının süresini geçirmemek için önce mülakatı yaptım. Tabiki son soru karşıma gelince pek bir açıklama yapamadım. Burada insiyatifinize sığınıyorum. ☹️*
 
 *Fun fact 2: Uygulama adı Flappy Bird'ten esinlenilmiştir.*
 
