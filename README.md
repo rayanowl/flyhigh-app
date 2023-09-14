@@ -33,6 +33,9 @@ Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde i
 
 6- ***Data'nın gelmediği durumlar :*** Data gelmediği takdirde ekrana hata mesajı gösterilir. Denemek için ayın yirmisi ve yirmisinden sonraki tarihleri seçebilir veya Havaalanı seçiminizde son iki opsiyonu seçebilirsiniz. 
 
+**NOT: Hata mesajı sadece gidiş ve dönüş verilerinin olmadığı durumlarda çıkar.
+Gelen verilerde seçilen tarihlere ve havaalanlarına bakıldığında bazen gidiş kısmının olmadığını görürüz. (Bu sadece belirli tarihlerde geçerlidir, data bu duruma göre uyarlanmıştır.)**
+
 7- ***Esneklik :*** Havaalanları seçilen tarihlere göre listeleyecektir.
 
 
