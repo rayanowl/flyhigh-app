@@ -15,7 +15,7 @@ header {
 
 main {
     max-width: 800px;
-    height: 160vh;
+    min-height: 70vh;
     margin: 0 auto;
     padding: 20px;
 }
