@@ -12,7 +12,7 @@ Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde i
 
 *Fun fact : " Bu yüzden video mülakatı başlatmadan önce case'ini tamamlaman ÇOK ÖNEMLİ❗️ "*
 
-*Case telaşından dolayı, video mülakatının süresini geçirmemek için önce mülakatı yaptım. Tabiki son soru karşıma gelince pek bir açıklama yapamadım. Burada insiyatifinize sığınıyorum. ☹️*
+*Case telaşından dolayı, video mülakatının süresini geçirmemek adına önce mülakatı başlattım. Tabiki son soru karşıma gelince pek bir açıklama yapamadım. Burada insiyatifinize sığınıyorum. 🙏🏻*
 
 
 *Fun fact 2: Uygulama adı Flappy Bird'ten esinlenilmiştir.*
@@ -37,6 +37,5 @@ Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde i
 Gelen verilerde seçilen tarihlere ve havaalanlarına bakıldığında bazen gidiş kısmının olmadığını görürüz. (Bu sadece belirli tarihlerde geçerlidir, data bu duruma göre uyarlanmıştır.)**
 
 7- ***Esneklik :*** Havaalanları seçilen tarihlere göre listeleyecektir.
-
 
 
