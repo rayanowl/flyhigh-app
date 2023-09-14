@@ -27,11 +27,11 @@ Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde i
 
 3- ***Kullanıcı dostu :*** Uygulama site arayüzüyle uyumludur.
 
-4- ***Tarihler arası biletlerin listelenmesi & Havaalanı sıralaması*** mevcuttur.
+4- ***Seçilen tarihli biletlerin listelenmesi & Havaalanı sıralaması*** mevcuttur.
 
 5- ***Aynı tarihlerin seçilebilmesi :*** Gidiş-dönüş aynı gün içerisinde olacaksa o veriler ekrana gösterilir.
 
-6- ***Data'nın gelmediği durumlar :*** Data gelmediği takdirde ekrana hata mesajı gösterilir. Denemek için ayın yirmisi ve yirmisinden sonraki tarihleri seçebilir, havaalanı seçiminizde son iki opsiyonu kullanabilir veya tek yönü işaretleyerek ulaşabilirsiniz. 
+6- ***Data'nın gelmediği durumlar :*** Data gelmediği takdirde ekrana hata mesajı gösterilir. Denemek için ayın yirmisi ve yirmisinden sonraki tarihleri seçebilir, havaalanı seçiminizde son iki opsiyonu kullanabilirsiniz. (Kesin sonuç için tek yönü işaretleyebilirsiniz.) 
 
 **NOT: Hata mesajı sadece gidiş ve dönüş verilerinin olmadığı durumlarda çıkar.
 Gelen verilerde seçilen tarihlere ve havaalanlarına bakıldığında bazen gidiş kısmının olmadığını görürüz. (Bu sadece belirli tarihlerde geçerlidir, data bu duruma göre uyarlanmıştır.)**
