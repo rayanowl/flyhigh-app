@@ -120,7 +120,7 @@ function fillTables(departingData, returningData) {
     const returnTable = document.getElementById("returnTable");
 
     if (!departingData || departingData === []) {
-        alert("There's no flights in selected dates / airports");
+        alert("There's no flights in selected dates / airports.");
         return;
     }
 
