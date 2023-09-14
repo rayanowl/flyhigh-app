@@ -21,7 +21,7 @@ Bu uygulama özetle, Kalkış - Varış noktalarını listeler, seçildiğinde i
 
 ## .....
 
-1- ***Tek yönlü Uçuş Özelliği :*** Bunu seçtiğiniz takdirde, dönüş bilgileri görüntülenmeyecektir.
+1- ***Tek yönlü Uçuş Özelliği :*** Bunu seçtiğiniz takdirde, dönüş bilgileri görüntülenmeyecektir. Checkbox'a tıkladığınızda dönüş kısmı disable olacaktır.
 
 2- ***Mock Data :*** Belli bir sunucudan havalimanı, saatleri, tarihleri vb. bilgiler çekilir ve geri döndürülür.
 
