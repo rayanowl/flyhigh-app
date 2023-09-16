@@ -60,26 +60,46 @@ function onOneWayChange() {
     }
 }
 
+function compareTimes(time1,time2){
+    let val1 = parseInt(time1.slice(0,2));
+    let val2 = parseInt(time2.slice(0,2));
+
+    if(val1 ===val2){
+        val1 = parseInt(time1.slice(3,5));
+        val2 = parseInt(time2.slice(3,5));
+        return val1-val2;
+    
+    }
+    return val1-val2;
+}
+
 function findFlights() {
     const from = document.getElementById("departureAirport").value;
     const to = document.getElementById("arrivalAirport").value;
 
     if (from === to) {
-        return [];
+        return [[], []];
     }
     
     const departureDate = document.getElementById("departureDate").value;
     const returnDateElement = document.getElementById("returnDate");
 
-    const departingFlights = flights.filter(flight => flight.from === from && flight.to === to && flight.date === departureDate);
+    let departingFlights = flights.filter(flight => flight.from === from && flight.to === to && flight.date === departureDate);
+    departingFlights = departingFlights.sort((flight1,flight2) => compareTimes(flight1.time,flight2.time));
+    
+    if(departingFlights.length === 0){
+        return [[],[]];
+    }
     
     if (!isOneWay) {
         const returnDate = returnDateElement.value;
-        const returningFlights = flights.filter(flight => flight.from === to && flight.to === from && flight.date === returnDate);
+        let returningFlights = flights.filter(flight => flight.from === to && flight.to === from && flight.date === returnDate);
+        if(returningFlights.length === 0){
+            return [[],[]];
+        }
         return [departingFlights, returningFlights];
     }
-
-    return departingFlights;
+    return [departingFlights, []];
 }
 
 function createTr(datum) {
@@ -109,7 +129,6 @@ function clearTables() {
     while (elements[0]) {
         elements[0].parentNode.removeChild(elements[0]);
     }
-
     document.querySelectorAll("table").forEach(table => table.setAttribute("hidden", true));
 }
 
@@ -119,7 +138,7 @@ function fillTables(departingData, returningData) {
     const departureTable = document.getElementById("departureTable");
     const returnTable = document.getElementById("returnTable");
 
-    if (!departingData || departingData === []) {
+    if (departingData.length === 0) {
         alert("There's no flights in selected dates / airports.");
         return;
     }
@@ -130,14 +149,12 @@ function fillTables(departingData, returningData) {
     });
     departureTable.removeAttribute("hidden");
 
-    if (returningData) {
+    if (returningData.length !== 0) {
         returningData.forEach(datum => {
             const tr = createTr(datum);
             returnTable.appendChild(tr);
         });
         returnTable.removeAttribute("hidden");
-    } else {
-        returnTable.setAttribute("hidden", true);
     }
 }
 
@@ -152,14 +169,8 @@ function animateLoading(callback) {
 }
 
 function search() {
-    const flights = findFlights();
-    if (flights == false) {
-        fillTables(null, null);
-    } else if (isOneWay) {
-        fillTables(flights, null);
-    } else {
-        fillTables(flights[0], flights[1]);
-    }
+    const [departingFlights,returningFlights] = findFlights();
+    fillTables(departingFlights,returningFlights);
 }
 
 function onSubmit() {
